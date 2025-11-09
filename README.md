@@ -11,4 +11,4 @@ Dont use the built-in `.upper()` method to convert a character to uppercase.
 **Examples**
 - `s = "hello"` → `HlO`  
 - `s = "world"` → `WrD`  
-- `s = "abc"` → `abc`  
+- `s = "abc"` → `AbC`  
